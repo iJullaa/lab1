@@ -72,6 +72,11 @@ h3 {
     margin-top: 20px;
 }
 
+p {
+    color: #ccc;
+    line-height: 1.6;
+}
+
 ul {
     list-style: none;
     padding: 0;
