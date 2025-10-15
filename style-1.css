@@ -5,6 +5,12 @@ body {
     background-color: #f0f2f5;
     margin: 0;
     padding: 0;
+
+    background-image: linear-gradient(rgba(255, 255, 255, 0.7), rgba(255, 255, 255, 0.7)), url('img1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
 }
 
 .main-content {
@@ -14,6 +20,7 @@ body {
     padding: 1px 30px 20px 30px;
     box-shadow: 0 4px 12px rgba(0,0,0,0.1);
     border-radius: 8px;
+    opacity: 0.75;
 }
 
 .page-header {
