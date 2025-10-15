@@ -1,0 +1,7 @@
+.vscode/
+*.docx
+*.doc
+*.pdf
+.DS_Store
+Thumbs.db
+*.log
